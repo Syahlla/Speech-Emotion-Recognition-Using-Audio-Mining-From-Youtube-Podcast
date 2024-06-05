@@ -1,0 +1,1 @@
+Mengidentifikasi dan mengklasifikasikan emosi dalam berbagai situasi percakapan pada podcast dengan fokus pada metode Speech Emotion Recognition (SER) dengan menggunakan fokus teknik audio mining. Penelitian menggunakan metode deep learning dan metode ekstraksi fitur
